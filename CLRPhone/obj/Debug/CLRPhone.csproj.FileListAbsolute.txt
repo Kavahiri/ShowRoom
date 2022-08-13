@@ -1,0 +1,5 @@
+F:\CLRPhone\bin\Debug\CLRPhone.dll
+F:\CLRPhone\bin\Debug\CLRPhone.pdb
+F:\CLRPhone\obj\Debug\CLRPhone.csprojAssemblyReference.cache
+F:\CLRPhone\obj\Debug\CLRPhone.dll
+F:\CLRPhone\obj\Debug\CLRPhone.pdb
